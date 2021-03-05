@@ -1,18 +1,24 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Riderfinder.github.io" resolutions="1x" timestamp="1614967242191">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Riderfinder.github.io" resolutions="1x" timestamp="1614968567317">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="_______.css" crc="4219298006" ref="良民證申請教學"/>
-    <file name="index.css" crc="3880244001" ref="index"/>
+    <file name="index.css" crc="3850139971" ref="index"/>
+    <file name="_______.css" crc="4188538508" ref="良民證申請教學"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:良民證申請教學"/>
-    <file name="museutils.js" crc="3803043152" ref="index:良民證申請教學"/>
-    <file name="whatinput.js" crc="86476730" ref="index:良民證申請教學"/>
-    <file name="museconfig.js" crc="380897831" ref="index:良民證申請教學"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:良民證申請教學"/>
-    <file name="require.js" crc="4157109226" ref="index:良民證申請教學"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="良民證申請教學:index"/>
+    <file name="museutils.js" crc="3803043152" ref="良民證申請教學:index"/>
+    <file name="whatinput.js" crc="86476730" ref="良民證申請教學:index"/>
+    <file name="museconfig.js" crc="380897831" ref="良民證申請教學:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="良民證申請教學:index"/>
+    <file name="require.js" crc="4157109226" ref="良民證申請教學:index"/>
   </folder>
   <folder name="images">
+    <file name="未命名3.jpg" crc="4006687080" seo="true" ref="良民證申請教學">
+      <caption webpage="良民證申請教學" alt=""/>
+    </file>
+    <file name="未命名2.jpg" crc="4253039629" seo="true" ref="良民證申請教學">
+      <caption webpage="良民證申請教學" alt=""/>
+    </file>
     <file name="1.jpg" crc="3782876294" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -22,16 +28,16 @@
     <file name="3.jpg" crc="3964602553" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5.jpg" crc="4195164925" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="4.jpg" crc="390504327" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="6.jpg" crc="3812649230" seo="true" ref="index">
+    <file name="5.jpg" crc="505713525" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="7.jpg" crc="260368055" seo="true" ref="index">
+    <file name="6.jpg" crc="31850698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.jpg" crc="3885284163" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="8.jpg" crc="262079374" seo="true" ref="index">
@@ -40,15 +46,7 @@
     <file name="9.jpg" crc="466929717" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="未命名3.jpg" crc="4006687080" seo="true" ref="良民證申請教學">
-      <caption webpage="良民證申請教學-copy" alt=""/>
-      <caption webpage="良民證申請教學" alt=""/>
-    </file>
-    <file name="未命名2.jpg" crc="4253039629" seo="true" ref="良民證申請教學">
-      <caption webpage="良民證申請教學-copy" alt=""/>
-      <caption webpage="良民證申請教學" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="3859479404" seo="true" mt="1614967234280" redirect="true"/>
-  <file name="良民證申請教學.html" crc="3773284558" seo="true" mt="1614967195688" redirect="true"/>
+  <file name="良民證申請教學.html" crc="172500753" seo="true" mt="1614968512915" redirect="true"/>
+  <file name="index.html" crc="449944683" seo="true" mt="1614968452323" redirect="true"/>
 </manifest>
