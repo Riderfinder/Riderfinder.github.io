@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Riderfinder.github.io" resolutions="1x" timestamp="1614966724981">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Riderfinder.github.io" resolutions="1x" timestamp="1614967242191">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="_______.css" crc="3997406976" ref="良民證申請教學"/>
+    <file name="_______.css" crc="4219298006" ref="良民證申請教學"/>
     <file name="index.css" crc="3880244001" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -40,13 +40,15 @@
     <file name="9.jpg" crc="466929717" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="未命名.jpg" crc="269624965" seo="true" ref="良民證申請教學">
+    <file name="未命名3.jpg" crc="4006687080" seo="true" ref="良民證申請教學">
+      <caption webpage="良民證申請教學-copy" alt=""/>
       <caption webpage="良民證申請教學" alt=""/>
     </file>
-    <file name="未命名2.jpg" crc="26053370" seo="true" ref="良民證申請教學">
+    <file name="未命名2.jpg" crc="4253039629" seo="true" ref="良民證申請教學">
+      <caption webpage="良民證申請教學-copy" alt=""/>
       <caption webpage="良民證申請教學" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3859479404" seo="true" mt="1614965133717" redirect="true"/>
-  <file name="良民證申請教學.html" crc="522714682" seo="true" mt="1614966713647" redirect="true"/>
+  <file name="index.html" crc="3859479404" seo="true" mt="1614967234280" redirect="true"/>
+  <file name="良民證申請教學.html" crc="3773284558" seo="true" mt="1614967195688" redirect="true"/>
 </manifest>
