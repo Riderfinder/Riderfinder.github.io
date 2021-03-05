@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Riderfinder.github.io" resolutions="1x" timestamp="1614971869032">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Riderfinder.github.io" resolutions="1x" timestamp="1614972040772">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="406049880" ref="index"/>
+    <file name="index.css" crc="4174890634" ref="index"/>
     <file name="_______.css" crc="3952407261" ref="良民證申請教學"/>
   </folder>
   <folder name="scripts">
@@ -47,9 +47,9 @@
       <caption webpage="良民證申請教學" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u536.png" crc="3954613063" ref="index"/>
-    <file name="u536-r.png" crc="3954613063" ref="index"/>
+    <file name="u536.png" crc="354606583" ref="index"/>
+    <file name="u536-r.png" crc="354606583" ref="index"/>
   </folder>
-  <file name="index.html" crc="505652488" seo="true" mt="1614971839224" redirect="true"/>
+  <file name="index.html" crc="3880464709" seo="true" mt="1614972030018" redirect="true"/>
   <file name="良民證申請教學.html" crc="3926438410" seo="true" mt="1614970179815" redirect="true"/>
 </manifest>
